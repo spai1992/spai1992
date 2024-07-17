@@ -15,12 +15,12 @@ My passion for technology and programming drives me to stay updated with the lat
 ![My Skills](https://skillicons.dev/icons?i=js,html,css,angular,react,bootstrap,sass,java,postgres)</br></br>
 # 📊 GitHub Stats:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=spai1992&theme=algolia&layout=compact) </br>
-![Simone's GitHub stats](https://github-readme-stats.vercel.app/api?username=spai1992&theme=neon&hide=prs,issues)</br>
-![](https://github-readme-streak-stats.herokuapp.com/?user=spai1992&theme=neon&hide_border=false)</br></br>
+![Simone's GitHub stats](https://github-readme-stats.vercel.app/api?username=spai1992&theme=algolia&hide=prs,issues)</br>
+![](https://github-readme-streak-stats.herokuapp.com/?user=spai1992&theme=algolia&hide_border=false)</br></br>
 
 
 ---
-![](https://visitcount.itsvg.in/api?id=spai1992&icon=2&color=11)
+![](https://visitcount.itsvg.in/api?id=spai1992&icon=2&color=1)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
